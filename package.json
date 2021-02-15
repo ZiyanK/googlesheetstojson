@@ -2,7 +2,15 @@
   "name": "googlesheetstojson",
   "version": "1.0.0",
   "description": "A package to read Google Sheets data and convert to JSON without publishing to web",
-  "main": "index.js",
+  "main": "src/index.js",
+  "keywords": [
+    "sheet-to-json",
+	"googlesheets",
+	"spreasheets",
+	"json",
+	"google",
+	"google-spreasheet-to-json"
+  ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

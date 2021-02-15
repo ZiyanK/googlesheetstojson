@@ -26,3 +26,9 @@ const IDexample = async (id) => {
 URLexample("https://docs.google.com/spreadsheets/d/13WicsCYCAI8SwP_g8n7hiwb4BAEBZ0cJDBfGqGuZBwU/edit#gid=0");
 IDexample("13WicsCYCAI8SwP_g8n7hiwb4BAEBZ0cJDBfGqGuZBwU")
 ```
+
+## Contributions
+
+- Feel Free to create a PR/Issue for any feature or bug(s).
+- Make sure you follow the community guidelines!
+- Have a feature request? Open an Issue!
