@@ -1,5 +1,7 @@
 # googlesheetstojson
 
+![banner](assets/banner.png)
+
 A package to read Google Sheets data and convert to JSON without publishing to web. Simply change Share access to "Anyone with the link can View".
 
 Give a ⭐ if you found this package interesting!
