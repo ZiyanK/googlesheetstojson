@@ -1,6 +1,6 @@
 # googlesheetstojson
 
-A package to read Google Sheets data and convert to JSON without publishing to web. Simply change Share access to "Anyone with the link can View".
+A package to read Google Sheets data and convert it to JSON without publishing it to the web. Simply change Share access to "Anyone with the link can View".
 
 Give a ⭐ if you found this package interesting!
 
