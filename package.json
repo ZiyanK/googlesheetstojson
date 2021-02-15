@@ -11,11 +11,15 @@
     "google",
     "google-spreasheet-to-json"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ZiyanK/googlesheetstojson"
+  },
   "scripts": {
     "test": "echo \"No test specified\""
   },
   "author": "ZiyanK",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "cheerio": "^1.0.0-rc.5",
     "request-promise": "^4.2.6"
