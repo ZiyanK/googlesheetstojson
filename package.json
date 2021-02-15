@@ -1,6 +1,6 @@
 {
   "name": "googlesheetstojson",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A package to read Google Sheets data and convert to JSON without publishing to web",
   "main": "src/index.js",
   "keywords": [
