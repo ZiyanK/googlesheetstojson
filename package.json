@@ -1,0 +1,15 @@
+{
+  "name": "googlesheetstojson",
+  "version": "1.0.0",
+  "description": "A package to read Google Sheets data and convert to JSON without publishing to web",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ZiyanK",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.5",
+    "request-promise": "^4.2.6"
+  }
+}
